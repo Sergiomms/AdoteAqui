@@ -54,7 +54,6 @@ li:hover{
     margin-top: 5%;
     margin-bottom: 05%;
 }
-
 .container-textos{
     display: flex;
     flex-wrap: wrap;
@@ -98,6 +97,17 @@ li:hover{
     border: 15px #F0AB22 solid;    
 }
 
+footer{
+    width: 100%;
+    background-color: #F5FA43;
+    color: #9692DB;
+    font-size: 01.5em;
+    font-weight: bolder;
+    text-align: center;
+    padding: 1.5em;
+
+}
+
 
 @media(max-width: 650px){
 
@@ -132,7 +142,7 @@ li:hover{
     }
 
     .fotos{
-        width: 100%;
+        width: auto;
     }
     
 }
