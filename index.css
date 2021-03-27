@@ -144,5 +144,10 @@ footer{
     .fotos{
         width: auto;
     }
-    
+    footer{
+        width: 100%;
+        background-color: #9692DB;
+        color: #F5FA43;
+
+    }
 }
